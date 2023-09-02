@@ -2,11 +2,11 @@
 
 ##Favorite Things About CS193:
 
-- one
-- two
-- three
-- four
-- five
+- I get to learn more general concepts that just help make it easier to program
+- One required class each week
+- The Instructors are pretty cool I guess
+- No Exams or Textbooks
+- Extra Credit Oportunities
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
