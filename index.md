@@ -4,6 +4,6 @@
 
 - I get to learn more general concepts that just help make it easier to program
 - One required class each week
-- The Instructors are pretty cool I guess
+- The Instructors are pretty _cool_ I guess
 - No Exams or Textbooks
 - Extra Credit Oportunities
